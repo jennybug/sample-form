@@ -1,0 +1,54 @@
+body {
+    
+    padding: 0;
+    margin: 10px;
+    text-align: center;
+    background: #982f98;
+    color: black;
+    font-size: 100%;
+}
+
+header {
+    
+    display: flex;
+    align-content: space-between;
+}
+
+h2 {
+    
+    font-size: 150%;
+    flex: 1;
+}
+
+button {
+    
+    border: 2px solid white;
+    border-radius: 16px;
+    padding: 40px;
+    font-weight: bold;
+    background: #eff4ed;
+    color: red;
+    flex: 1;
+}
+
+#myform {
+    
+    display: none;
+    
+}
+
+input[type=text], input[type=submit] {
+    
+    padding: 12px 20px;
+    width: 50%;
+    font-family: 'roboto', sans-serif;
+    font-size: 100%;
+    box-sizing: border-box;
+}
+
+
+
+
+
+
+
